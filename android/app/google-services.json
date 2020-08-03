@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "620761010953",
+    "firebase_url": "https://transportservice-c3947.firebaseio.com",
+    "project_id": "transportservice-c3947",
+    "storage_bucket": "transportservice-c3947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620761010953:android:204de575798d40ac81f9d8",
+        "android_client_info": {
+          "package_name": "test.app.com.transportservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620761010953-8rm2gso0rqkmeir8k9kgvi8ajqeh8rg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.app.com.transportservice",
+            "certificate_hash": "bf08eed620a9e0c7be357e2f65d7fe8a1bc56f15"
+          }
+        },
+        {
+          "client_id": "620761010953-phvhfe6m51i4t1onm81d9bhf316am0r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLk2CwFBr98euB1rsiSsoFvEeDzKWhZbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620761010953-phvhfe6m51i4t1onm81d9bhf316am0r4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620761010953-t52udgs2h57nno466409usec80q1opna.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "test.app.com.transportservice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
